@@ -1,2 +1,2 @@
 # LearningLanguages
-learning programming languages
+Изучение языков программирования

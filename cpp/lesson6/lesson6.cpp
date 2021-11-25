@@ -40,7 +40,12 @@ int main() {
     // minutes = time;
     // seconds = (time - minutes) * 100;
     // total_seconds = minutes * 60 + seconds;
-    // cout << "ВреНачалодите радиус круга:";
+    // cout << "Время: "<< minutes << " мин "<< time <<" сек = "<< total_seconds <<" сек" << endl;
+    // speed = (dist / (double)1000) / (total_seconds / (double)3600);
+    // cout << "Вы бежали со скоростью "<< speed <<" км/час" << endl;
+    // Прогграма рассчитает плошадь круга
+    // double radius,area;
+    // cout << "Введите радиус круга:";
     // cin >> radius;
     // area = M_PI * (radius * radius);
     // cout << "Площадь круга равна " << area << endl;
